@@ -5,7 +5,7 @@
 Clone the repository and install in editable mode (recommended for development):
 
 ```sh
-pip install git+https://github.com/bisectgroup/FGR.git
+pip install git+https://github.com/bisect-group/FGR.git
 ```
 
 ## Usage
