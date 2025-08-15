@@ -11,6 +11,7 @@ authors = [
 ]
 readme = "README.md"
 requires-python = ">=3.9"
+dynamic = ["dependencies"]
 
 [tool.setuptools]
 package-dir = {"" = "."}
